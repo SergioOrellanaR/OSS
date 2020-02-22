@@ -1,0 +1,28 @@
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\OverwatchServerSelector.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\WindowsFirewallHelper.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\OverwatchServerSelector.pdb
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\WindowsFirewallHelper.xml
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop.csprojAssemblyReference.cache
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\App.g.cs
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\MainWindow.baml
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop.csproj.GenerateResource.cache
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop.csproj.CopyComplete
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\SearchFile.g.cs
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\SearchFile.baml
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\System.Security.Permissions.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\How to use.g.cs
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\How to use.baml
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\OverwatchServerSelectorDesktop.exe.config
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\OverwatchServerSelectorDesktop.exe
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\bin\Debug\OverwatchServerSelectorDesktop.pdb
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop_MarkupCompile.cache
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop_MarkupCompile.lref
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop.g.resources
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop.Properties.Resources.resources
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop.exe
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorDesktop\obj\Debug\OverwatchServerSelectorDesktop.pdb

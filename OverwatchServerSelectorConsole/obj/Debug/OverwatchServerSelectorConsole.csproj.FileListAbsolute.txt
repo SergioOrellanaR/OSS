@@ -1,0 +1,17 @@
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\bin\Debug\OverwatchServerSelectorConsole.exe.config
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\bin\Debug\OverwatchServerSelectorConsole.exe
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\bin\Debug\OverwatchServerSelectorConsole.pdb
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\bin\Debug\OverwatchServerSelector.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\bin\Debug\WindowsFirewallHelper.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\bin\Debug\OverwatchServerSelector.pdb
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\bin\Debug\WindowsFirewallHelper.xml
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\obj\Debug\OverwatchServerSelectorConsole.csprojAssemblyReference.cache
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\obj\Debug\OverwatchServerSelectorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\obj\Debug\OverwatchServerSelectorConsole.csproj.CopyComplete
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\obj\Debug\OverwatchServerSelectorConsole.exe
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\obj\Debug\OverwatchServerSelectorConsole.pdb
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\bin\Debug\OverwatchServerSelectorConsole.exe.manifest
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\bin\Debug\OverwatchServerSelectorConsole.application
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\obj\Debug\OverwatchServerSelectorConsole.TrustInfo.xml
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\obj\Debug\OverwatchServerSelectorConsole.exe.manifest
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelectorConsole\obj\Debug\OverwatchServerSelectorConsole.application

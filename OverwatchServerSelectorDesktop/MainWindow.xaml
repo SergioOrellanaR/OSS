@@ -1,0 +1,44 @@
+﻿<Window x:Class="OverwatchServerSelectorDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OverwatchServerSelectorDesktop"
+        mc:Ignorable="d"
+        Title="Overwatch Server Selector 1.0" Height="450" Width="800"
+        Closing= "Window_Closing"
+        ResizeMode="CanMinimize" Icon="Images/41FB-x0Ra-L._SX425_.jpg">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/Mapamundi.png"/>
+        </Grid.Background>
+        <CheckBox Content="US West" HorizontalAlignment="Left" Margin="120,132,0,0" VerticalAlignment="Top" Name="CkbUSWest" IsChecked="True" Checked="CkbUSWest_Checked" Unchecked="CkbUSWest_Unchecked" RenderTransformOrigin="1.516,3" Foreground="White"  />
+        <CheckBox Content="US East" HorizontalAlignment="Left" Margin="192,149,0,0" VerticalAlignment="Top" Name="CkbUSEast" IsChecked="True" Checked="CkbUSEast_Checked" Unchecked="CkbUSEast_Unchecked" RenderTransformOrigin="0.508,3.867" Foreground="White"/>
+        <CheckBox Content="Brazil" HorizontalAlignment="Left" Margin="273,288,0,0" VerticalAlignment="Top" Name="CkbBrazil" IsChecked="True" Checked="CkbBrazil_Checked" Unchecked="CkbBrazil_Unchecked" RenderTransformOrigin="2.125,5.267" Foreground="White"/>
+        <CheckBox Content="Europe West" Margin="356,120,10,10" Width="auto" Height="auto" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Name="CkbEuropeWest" IsChecked="True" Checked="CkbEuropeWest_Checked" Unchecked="CkbEuropeWest_Unchecked" Foreground="White" />
+        <CheckBox Content="South Korea" HorizontalAlignment="Left" Margin="615,189,0,0" VerticalAlignment="Top" Name="CkbSouthKorea" IsChecked="True" Checked="CkbSouthKorea_Checked" Unchecked="CkbSouthKorea_Unchecked" RenderTransformOrigin="0.5,0.5" Foreground="White"/>
+        <CheckBox Content="Canada" HorizontalAlignment="Left" Margin="143,86,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.583,-0.133" Name="CkbCanada" IsChecked="True" Checked="CkbCanada_Checked" Unchecked="CkbCanada_Unchecked" Foreground="White"/>
+        <CheckBox Content="Europe Central" HorizontalAlignment="Left" Margin="399,98,0,0" VerticalAlignment="Top" Name="CkbEuropeCentral" IsChecked="True" Checked="CkbEuropeCentral_Checked" Unchecked="CkbEuropeCentral_Unchecked" Foreground="White"/>
+        <CheckBox Content="Europe North" HorizontalAlignment="Left" Margin="405,58,0,0" VerticalAlignment="Top" Name="CkbEuropeNorth" IsChecked="True" Checked="CkbEuropeNorth_Checked" Unchecked="CkbEuropeNorth_Unchecked" Foreground="White"/>
+        <CheckBox Content="Japan" HorizontalAlignment="Left" Margin="650,137,0,0" VerticalAlignment="Top" Name="CkbJapan" IsChecked="True" Checked="CkbJapan_Checked" Unchecked="CkbJapan_Unchecked" Foreground="White"/>
+        <CheckBox Content="Singapore" HorizontalAlignment="Left" Margin="573,240,0,0" VerticalAlignment="Top" Name="CkbSingapore" IsChecked="True" Checked="CkbSingapore_Checked" Unchecked="CkbSingapore_Unchecked" Foreground="White"/>
+        <CheckBox Content="Australia" HorizontalAlignment="Left" Margin="650,327,0,0" VerticalAlignment="Top" Name="CkbAustralia" IsChecked="True" Checked="CkbAustralia_Checked" Unchecked="CkbAustralia_Unchecked" Foreground="White"/>
+        <CheckBox Content="India" HorizontalAlignment="Left" Margin="521,201,0,0" VerticalAlignment="Top" Name="CkbIndia" IsChecked="True" Checked="CkbIndia_Checked" Unchecked="CkbIndia_Unchecked" Foreground="White"/>
+        <CheckBox Content="China" HorizontalAlignment="Left" Margin="573,174,0,0" VerticalAlignment="Top" Name="CkbChina" IsChecked="True" Checked="CkbChina_Checked" Unchecked="CkbChina_Unchecked" Foreground="White"/>
+        <CheckBox Content="Chile" HorizontalAlignment="Left" Margin="219,347,0,0" VerticalAlignment="Top" Name="CkbChile" IsChecked="True" Checked="CkbChile_Checked" Unchecked="CkbChile_Unchecked" Foreground="White"/>
+        <CheckBox Content="Argentina" HorizontalAlignment="Left" Margin="249,327,0,0" VerticalAlignment="Top" Name="CkbArgentina" IsChecked="True" Checked="CkbArgentina_Checked" Unchecked="CkbArgentina_Unchecked" Foreground="White" Height="15"/>
+        <Label Content="Developed by Sergio Orellana&#xD;&#xA;&#xD;&#xA;This work took me 50 hours,&#xD;&#xA;if you want to donate me,&#xD;&#xA;you can click here:" HorizontalAlignment="Left" Margin="0,278,0,0" VerticalAlignment="Top" Height="141" Width="174" Background="White"/>
+        <Button Name="btnDonate" Content="Donate" HorizontalAlignment="Left" Margin="41,389,0,0" VerticalAlignment="Top" Width="75" Click="btnDonate_Click" RenderTransformOrigin="0.707,0.8"/>
+
+        <Menu HorizontalAlignment="Left" Height="19" VerticalAlignment="Top" Width="148">
+            <MenuItem Header="_File">
+                <MenuItem Name="mniSearch" Header="_Search Directory" Click="MniSearch_Click" />
+                <MenuItem Name="mniExit" Header="_Exit" Click="MniExit_Click"/>
+            </MenuItem>
+            <Separator />
+            <MenuItem Name="mniHowTo" Header="_How to use" Click="MniHowTo_Click">
+            </MenuItem>
+        </Menu>
+
+    </Grid>
+</Window>

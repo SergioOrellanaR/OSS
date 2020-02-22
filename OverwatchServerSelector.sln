@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverwatchServerSelector", "OverwatchServerSelector\OverwatchServerSelector.csproj", "{2592CB1A-FAC9-4181-9484-9AAFC57FD3B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverwatchServerSelectorConsole", "OverwatchServerSelectorConsole\OverwatchServerSelectorConsole.csproj", "{063B6B63-5E9D-4129-9CAA-36810F6CD514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverwatchServerSelectorDesktop", "OverwatchServerSelectorDesktop\OverwatchServerSelectorDesktop.csproj", "{6CF9676F-5CC7-412D-A243-A9313C0A96A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2592CB1A-FAC9-4181-9484-9AAFC57FD3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2592CB1A-FAC9-4181-9484-9AAFC57FD3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2592CB1A-FAC9-4181-9484-9AAFC57FD3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2592CB1A-FAC9-4181-9484-9AAFC57FD3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063B6B63-5E9D-4129-9CAA-36810F6CD514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063B6B63-5E9D-4129-9CAA-36810F6CD514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063B6B63-5E9D-4129-9CAA-36810F6CD514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063B6B63-5E9D-4129-9CAA-36810F6CD514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF9676F-5CC7-412D-A243-A9313C0A96A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF9676F-5CC7-412D-A243-A9313C0A96A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF9676F-5CC7-412D-A243-A9313C0A96A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF9676F-5CC7-412D-A243-A9313C0A96A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F02ABA-434F-4542-B037-CFEE0FC6A431}
+	EndGlobalSection
+EndGlobal

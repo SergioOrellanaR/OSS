@@ -1,0 +1,8 @@
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelector\bin\Debug\OverwatchServerSelector.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelector\bin\Debug\OverwatchServerSelector.pdb
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelector\bin\Debug\WindowsFirewallHelper.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelector\bin\Debug\WindowsFirewallHelper.xml
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelector\obj\Debug\OverwatchServerSelector.csproj.CoreCompileInputs.cache
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelector\obj\Debug\OverwatchServerSelector.csproj.CopyComplete
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelector\obj\Debug\OverwatchServerSelector.dll
+C:\Users\Sergio Orellana\source\repos\OverwatchServerSelector\OverwatchServerSelector\obj\Debug\OverwatchServerSelector.pdb
